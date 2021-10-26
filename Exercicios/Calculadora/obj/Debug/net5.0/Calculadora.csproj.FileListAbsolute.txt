@@ -1,0 +1,16 @@
+/home/marcelo/Documentos/GitHub/C#/Exercicios/Calculadora/bin/Debug/net5.0/Calculadora
+/home/marcelo/Documentos/GitHub/C#/Exercicios/Calculadora/bin/Debug/net5.0/Calculadora.deps.json
+/home/marcelo/Documentos/GitHub/C#/Exercicios/Calculadora/bin/Debug/net5.0/Calculadora.runtimeconfig.json
+/home/marcelo/Documentos/GitHub/C#/Exercicios/Calculadora/bin/Debug/net5.0/Calculadora.runtimeconfig.dev.json
+/home/marcelo/Documentos/GitHub/C#/Exercicios/Calculadora/bin/Debug/net5.0/Calculadora.dll
+/home/marcelo/Documentos/GitHub/C#/Exercicios/Calculadora/bin/Debug/net5.0/ref/Calculadora.dll
+/home/marcelo/Documentos/GitHub/C#/Exercicios/Calculadora/bin/Debug/net5.0/Calculadora.pdb
+/home/marcelo/Documentos/GitHub/C#/Exercicios/Calculadora/obj/Debug/net5.0/Calculadora.csprojAssemblyReference.cache
+/home/marcelo/Documentos/GitHub/C#/Exercicios/Calculadora/obj/Debug/net5.0/Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+/home/marcelo/Documentos/GitHub/C#/Exercicios/Calculadora/obj/Debug/net5.0/Calculadora.AssemblyInfoInputs.cache
+/home/marcelo/Documentos/GitHub/C#/Exercicios/Calculadora/obj/Debug/net5.0/Calculadora.AssemblyInfo.cs
+/home/marcelo/Documentos/GitHub/C#/Exercicios/Calculadora/obj/Debug/net5.0/Calculadora.csproj.CoreCompileInputs.cache
+/home/marcelo/Documentos/GitHub/C#/Exercicios/Calculadora/obj/Debug/net5.0/Calculadora.dll
+/home/marcelo/Documentos/GitHub/C#/Exercicios/Calculadora/obj/Debug/net5.0/ref/Calculadora.dll
+/home/marcelo/Documentos/GitHub/C#/Exercicios/Calculadora/obj/Debug/net5.0/Calculadora.pdb
+/home/marcelo/Documentos/GitHub/C#/Exercicios/Calculadora/obj/Debug/net5.0/Calculadora.genruntimeconfig.cache
