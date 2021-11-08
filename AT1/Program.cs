@@ -6,9 +6,9 @@ namespace AT1
     {
         static void Main(string[] args)
         {
-            string texto = "estou estudando c#";
-            string[] array = texto.Split(" ");
-            Console.WriteLine(array[1]);
+            Console.Write("Digite um número: ");
+            double n1 = double.Parse(Console.ReadLine());
+            Console.WriteLine($"soma: {n1 + 2}");
         }
     }
 }
