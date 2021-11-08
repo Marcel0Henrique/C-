@@ -1,0 +1,16 @@
+/home/marcelo/Documentos/GitHub/C#/AT1/bin/Debug/net5.0/AT1
+/home/marcelo/Documentos/GitHub/C#/AT1/bin/Debug/net5.0/AT1.deps.json
+/home/marcelo/Documentos/GitHub/C#/AT1/bin/Debug/net5.0/AT1.runtimeconfig.json
+/home/marcelo/Documentos/GitHub/C#/AT1/bin/Debug/net5.0/AT1.runtimeconfig.dev.json
+/home/marcelo/Documentos/GitHub/C#/AT1/bin/Debug/net5.0/AT1.dll
+/home/marcelo/Documentos/GitHub/C#/AT1/bin/Debug/net5.0/ref/AT1.dll
+/home/marcelo/Documentos/GitHub/C#/AT1/bin/Debug/net5.0/AT1.pdb
+/home/marcelo/Documentos/GitHub/C#/AT1/obj/Debug/net5.0/AT1.csprojAssemblyReference.cache
+/home/marcelo/Documentos/GitHub/C#/AT1/obj/Debug/net5.0/AT1.GeneratedMSBuildEditorConfig.editorconfig
+/home/marcelo/Documentos/GitHub/C#/AT1/obj/Debug/net5.0/AT1.AssemblyInfoInputs.cache
+/home/marcelo/Documentos/GitHub/C#/AT1/obj/Debug/net5.0/AT1.AssemblyInfo.cs
+/home/marcelo/Documentos/GitHub/C#/AT1/obj/Debug/net5.0/AT1.csproj.CoreCompileInputs.cache
+/home/marcelo/Documentos/GitHub/C#/AT1/obj/Debug/net5.0/AT1.dll
+/home/marcelo/Documentos/GitHub/C#/AT1/obj/Debug/net5.0/ref/AT1.dll
+/home/marcelo/Documentos/GitHub/C#/AT1/obj/Debug/net5.0/AT1.pdb
+/home/marcelo/Documentos/GitHub/C#/AT1/obj/Debug/net5.0/AT1.genruntimeconfig.cache

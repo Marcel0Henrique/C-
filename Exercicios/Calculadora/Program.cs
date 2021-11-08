@@ -10,7 +10,7 @@ namespace Calculadora
 
             System.Console.WriteLine();
 
-            int n1 = int.Parse(Console.ReadLine("Digite o 1° Numero:"));
+            int n1 = int.Parse(Console.ReadLine());
         }
     }
 }
